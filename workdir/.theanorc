@@ -1,0 +1,3 @@
+[global]
+device = gpu0
+floatX = float32

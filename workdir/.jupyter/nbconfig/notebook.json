@@ -1,0 +1,6 @@
+{
+  "load_extensions": {
+    "select_keymap/main": true, 
+    "collapsible_headings/main": true
+  }
+}

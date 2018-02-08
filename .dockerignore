@@ -1,0 +1,6 @@
+.gitignore
+build.sh
+LICENSE
+README.md
+build.sh
+workdir/
